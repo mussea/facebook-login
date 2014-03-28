@@ -1,6 +1,9 @@
 Custom login page with facebook connect
 ==============
 
+
+<a href="http://bookdem.com/github/index3.php">DEMO</a> 
+
 This prject allows you to implement a login with facebook button that retrieves user information from to Facebook api to be display on the member page. It also stores the data gathered from facebook to a mySQL database. 
 
 To set up: 
