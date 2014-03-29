@@ -15,4 +15,4 @@ To set up:
 4. Thats it! Enjoy! 
 
 
-This is by no means a final project and is still in the works of getting improvement. Feel free to comment with any qestions. 
+This is by no means a final project and is still in the works of getting improvement. Feel free to comment with any questions. 
